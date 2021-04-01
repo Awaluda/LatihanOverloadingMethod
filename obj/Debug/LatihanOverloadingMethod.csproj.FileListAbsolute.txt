@@ -1,0 +1,7 @@
+E:\3418_2\methodfungsi\methodfungsi\bin\Debug\methodfungsi.exe.config
+E:\3418_2\methodfungsi\methodfungsi\bin\Debug\methodfungsi.exe
+E:\3418_2\methodfungsi\methodfungsi\bin\Debug\methodfungsi.pdb
+E:\3418_2\methodfungsi\methodfungsi\obj\Debug\LatihanOverloadingMethod.csprojAssemblyReference.cache
+E:\3418_2\methodfungsi\methodfungsi\obj\Debug\LatihanOverloadingMethod.csproj.CoreCompileInputs.cache
+E:\3418_2\methodfungsi\methodfungsi\obj\Debug\methodfungsi.exe
+E:\3418_2\methodfungsi\methodfungsi\obj\Debug\methodfungsi.pdb
